@@ -1,1 +1,1 @@
-# BERT_SENTIMENT_ANALYSIS
+## Using bert-base-multilingual-uncased-sentiment model for analyzing some reviews from yelp 
